@@ -6,7 +6,6 @@
     Date Last Modified: Spet 16, 2024
 '''
 
-
 #Assignment statment
 #Assigning the value on the right to the value on the left
 
