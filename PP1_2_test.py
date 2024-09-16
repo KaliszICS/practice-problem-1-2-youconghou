@@ -72,7 +72,7 @@ def test_q6(capsys):
 
   q6()
   captured = capsys.readouterr()
-  assert captured.out == "true\n"
+  assert captured.out == "True\n"
 
 def test_q7(capsys):
 
